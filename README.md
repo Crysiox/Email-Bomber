@@ -6,6 +6,8 @@ The Discord Mail Bomber is a bot that allows users to initiate a simulated email
 1. `pip install discord`
 2. `pip install requests`
 
+3. Put the allowed channel id on line 16
+
 # Files
 
 1. `Main.py` - Main script file
