@@ -13,7 +13,7 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 bombing_jobs = {}
-allowed_channel_id = 1134152240974794772
+allowed_channel_id = CHANNELID
 
 @bot.event
 async def on_ready():
